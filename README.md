@@ -1,7 +1,7 @@
 Quadris
 =======
 
-Modified version of Tetris (called Quadris) for a University group programming project with Thao Nguyen in Spring 2013.
+Modified version of Tetris (called Quadris) for a University group programming project with Thao Mac in Spring 2013.
 
 To play, run:
 > make
